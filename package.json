@@ -1,0 +1,22 @@
+{
+  "name": "webpack-bundle-syntax-check-plugin",
+  "version": "1.0.0",
+  "description": "一个简单的检测bundle是否兼容到指定ES版本的webpack插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megan-TA/webpack-bundle-syntax-check-plugin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Megan-TA/webpack-bundle-syntax-check-plugin/issues"
+  },
+  "homepage": "https://github.com/Megan-TA/webpack-bundle-syntax-check-plugin#readme",
+  "devDependencies": {
+    "acorn": "^8.0.4"
+  }
+}
