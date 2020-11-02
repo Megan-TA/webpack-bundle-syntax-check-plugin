@@ -18,7 +18,7 @@ npm install webpack-bundle-syntax-check-plugin --save-dev
 ## 使用
 
 ```javascript
-const { BundleSyntaxCheckerPlugin } = require("@bilibili/bundle-syntax-checker-plugin");
+const { BundleSyntaxCheckerPlugin } = require("webpack-bundle-syntax-check-plugin");
 
 module.exports = {
     plugins: [
